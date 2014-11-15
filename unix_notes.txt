@@ -16,20 +16,10 @@
    16  pwd
    17  cd
    18  cd ~/Documents
-   19  cd ..
-   20  man
-   21  ls
-   22  man ls
-   23  pwd
-   24  man man
-   25  ls -l ~
    26  ls ~
    27  ls
    28  pwd
    29  cd Documents
-   30  ..
-   31  ..
-   32  ...
    33  cd..
    34  cd Users/ingrocks
    35  cd /Users/ingyrocks
