@@ -1,0 +1,472 @@
+    1  defaults write com.appleNetworkBrowser Enable0DiskBrowsing -bool true
+    2  defaults write com.apple.NetworkBrowser ODSSupported -bool true
+    3  defaults write com.apple.NetworkBrowser EnableODiskBrowsing -bool NO
+    4  defaults write com.apple.NetworkBrowser ODSSupported -bool NO
+    5  defaults write com.apple.finder AppleShowAllFiles true
+    6  killall Finder
+    7  .Trash
+    8  cd.Trash
+    9  mv Forrest Prusan
+   10  Trash
+   11  cd.Trash
+   12  quit
+   13  defaults write com.apple.finder AppleShowAllFiles NO
+   14  li -l ~
+   15  ls -l ~
+   16  pwd
+   17  cd
+   18  cd ~/Documents
+   19  cd ..
+   20  man
+   21  ls
+   22  man ls
+   23  pwd
+   24  man man
+   25  ls -l ~
+   26  ls ~
+   27  ls
+   28  pwd
+   29  cd Documents
+   30  ..
+   31  ..
+   32  ...
+   33  cd..
+   34  cd Users/ingrocks
+   35  cd /Users/ingyrocks
+   36  cd Documents
+   37  cd ..
+   38  man
+   39  man ls
+   40  man man
+   41  man mkdir
+   42  man mkdir
+   43  exit
+   44  man
+   45  16
+   46  man man
+   47  ?
+   48  /ls
+   49  ls
+   50  ls
+   51  cd Public/ls
+   52  pwd
+   53  ls
+   54  /Documents
+   55  \Documents
+   56  cd /Documents
+   57  ?
+   58  git config --global user.name "icuthy"
+   59  ls
+   60  cd documents
+   61  ls
+   62  fwd
+   63  pwd
+   64  cd~
+   65  cd ~
+   66  cd Documents
+   67  cd ~
+   68  cd ..
+   69  cd ~
+   70  cd Documents/
+   71  cd ..
+   72  cd..
+   73  cd >>
+   74  cd ..
+   75  cd ~
+   76  ls Documents/
+   77  cd Travel
+   78  cd TRAVEL
+   79  cd ~
+   80  cd Documents/
+   81  ls TRAVEL
+   82  cd ~
+   83  cd Documents/
+   84  ls TRAVEL
+   85  ls London Trip
+   86  ls SPAIN
+   87  cd `
+   88  cd ~
+   89  cd ~
+   90  why
+   91  what is happening
+   92  '~`
+   93  cd ~
+   94  cd Documents/
+   95  ls TRAVEL/
+   96  cd TRAVEL/
+   97  ls London
+   98  ls SPAIN/
+   99  cd /Users/ingyrocks/Library 
+  100  cd ..
+  101  cd ~
+  102  cd Documents/
+  103  cd ..
+  104  cd Documents/
+  105  cd ..
+  106  cd ..
+  107  cd ..
+  108  cd ..
+  109  ls
+  110  open Applications/Textedit
+  111  cd Applications/
+  112  ls
+  113  open TextEdit.app
+  114  open TextEdit.app
+  115  close TextEdit.app
+  116  man 
+  117  pwd
+  118  man Applications
+  119  man
+  120  1
+  121  ls Desktop
+  122  cd ~
+  123  cd ..
+  124  cd..
+  125  cd ..
+  126  cd ~
+  127  ls Desktop
+  128  cd Desktop
+  129  open Code Study
+  130  open Code_Study
+  131  ls Code
+  132  ls JAvier
+  133  open Twinkeleton Tales
+  134  open Twinkleton\ Tales.pages/
+  135  ls
+  136  cd Movies
+  137  ls
+  138  pwd
+  139  cd ..
+  140  cd ..
+  141  cd Applications
+  142  pwd
+  143  cd ~
+  144  ls Applications
+  145  cd Applications/
+  146  ls
+  147  ls
+  148  cd ..
+  149  ls
+  150  ls Applications/
+  151  cd App
+  152  cd Applications/
+  153  ls
+  154  open TextEdit.app
+  155  pwd
+  156  cd ~
+  157  ls /Users/ingyrocks/Applications
+  158  cd /Users/ingyrocks/Desktop/indesign\ install\ stuff 
+  159  cd ~
+  160  cd /Applications
+  161  ls
+  162  open TextEdit.app 
+  163  cp/Users/ingyrocks/Desktop/test\ file.rtf /Users/ingyrocks/Documents/
+  164  cd
+  165  cp /Users/ingyrocks/Desktop/test\ file.rtf /Users/ingyrocks/Documents/
+  166  ls Documents
+  167  cp /Users/ingyrocks/Desktop/test\ sfolder /Users/ingyrocks/Documents
+  168  cp -R /Users/ingyrocks/Desktop/test\ sfolder /Users/ingyrocks/Documents
+  169  mv /Users/ingyrocks/Desktop/test\ sfolder /Users/ingyrocks/Documents
+  170  mv /Users/ingyrocks/Desktop/test\ sfolder /Users/ingyrocks/Documents
+  171  man ls
+  172  man man
+  173  man ls
+  174  ls _F
+  175  ls
+  176  ls-F
+  177  man man
+  178  ls
+  179  cd Documents/
+  180  ls
+  181  open IngT\Astro\charts
+  182  cd ~
+  183  ls -l
+  184  ;2C;2C
+  185  ls -a
+  186  ls /etc
+  187  ls moduli
+  188  ls -a /etc
+  189  clear
+  190  ls -l /etc
+  191  ls -a /etc
+  192  ls -l
+  193  ls -l /etc
+  194  ls /etc
+  195  ls -l /etc
+  196  ls -l private/etc
+  197  clear
+  198  ls
+  199  man ls
+  200  pwd
+  201  cd Desktop/
+  202  ls
+  203  open test\folder
+  204  open test\ folder/
+  205  cd test\ folder/
+  206  open Test\ file.html 
+  207  less Test\ file.html 
+  208  cd Documents/
+  209  ls
+  210  ls
+  211  clear
+  212  cd ../Desktop/
+  213  open test\ folder/
+  214  cd test\ folder/
+  215  open Test\ file.html 
+  216  less Test\ file.html 
+  217  pwd
+  218  ls
+  219  open Test\ file.html 
+  220  less Test\ file.html 
+  221  ~
+  222  ls
+  223  cd ~
+  224  ls
+  225  cd Applications/
+  226  ls
+  227  la
+  228  la-a
+  229  ls -l
+  230  ~
+  231  ls
+  232  cd ~
+  233  ls
+  234  cd Applications/
+  235  ls
+  236  clear
+  237  cd ~/Desktop/
+  238  mv /Users/ingyrocks/Desktop/STG\ Presents\ \|\ The\ Paramount\ \&\ Moore\ Theatres\ \|\ Seattle\ \|.pdf  ~/Documents
+  239  mv /Users/ingyrocks/Documents/STG\ Presents\ \|\ The\ Paramount\ \&\ Moore\ Theatres\ \|\ Seattle\ \|.pdf  ~/Desktop/
+  240  exit
+  241  git --version
+  242  bash
+  243  exit
+  244  cd ~
+  245  cd ..
+  246  cd ..
+  247  env
+  248  cd ..
+  249  cd ..
+  250  ls
+  251  cd ..
+  252  cd ..
+  253  cd /users
+  254  cd ..
+  255  ls
+  256  cd Users
+  257  ls
+  258  ls Shared/
+  259  whoami
+  260  clear
+  261  cd ~
+  262  echo hello
+  263  echo HOME
+  264  echo $HOME
+  265  cd ..
+  266  cd ..
+  267  ls
+  268  cd ~
+  269  ls
+  270  cd Doc
+  271  cd Documents/
+  272  ls
+  273  grep "is" test.indd
+  274  cd ..
+  275  cd Desktop/
+  276  ls
+  277  grep "is" Twinkleton\ Tales.pages/
+  278  cd Twinkleton\ Tales.pages/
+  279  ls
+  280  grep "is" Index.zip 
+  281  cd ..
+  282  grep "is" Console\ notes.pages/
+  283  grep "is" camera\ course\ notes.rtf 
+  284  apt-get update
+  285  find -name "APT"
+  286  find apt
+  287  find homebrew
+  288  sudo find -name homebrew
+  289  find -name "homebrew"
+  290  find -name "Homebrew"
+  291  find/ -name homebrew
+  292  git --version
+  293  subl
+  294  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  295  clear
+  296  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  297  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  298  subl
+  299  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  300  subl
+  301  pwd
+  302  pwd
+  303  cd ..
+  304  cd ..
+  305  cd ..
+  306  cd ~
+  307  cd ~/Documents/
+  308  cd ~
+  309  cd
+  310  pwd
+  311  clear
+  312  psd
+  313  pwd
+  314  clear
+  315  pwd
+  316  cd
+  317  cd /
+  318  ls
+  319  cd bin
+  320  ls
+  321  clear
+  322  ls
+  323  cd
+  324  cd /
+  325  ls
+  326  pwd
+  327  cd ~
+  328  clear
+  329  pwd
+  330  cd
+  331  pwd
+  332  cd Documents/
+  333  pwd
+  334  ls man
+  335  man ls
+  336  cd ~
+  337  ls -l
+  338  ls  -lt
+  339  ls -r
+  340  ls -t
+  341  clear
+  342  ls -lrt
+  343  man ls
+  344  man man
+  345  man
+  346  ls
+  347  man man
+  348  -D
+  349  -d
+  350  d
+  351  clear
+  352  ls -D
+  353  clear
+  354  ls man
+  355  man ls
+  356  ls
+  357  cd Applications/
+  358  ls
+  359  /
+  360  cd /
+  361  ls
+  362  cd Applications/
+  363  ls
+  364  pwd
+  365  cd ..
+  366  ls
+  367  cd Users
+  368  ls
+  369  cd ingyrocks/
+  370  ls -a
+  371  pwd
+  372  man ls
+  373  ls /usr/local
+  374  ls /usr/local/
+  375  mkdir /usr/local/bin
+  376  mkdir /usr/local
+  377  sudo mkdir /usr/local
+  378  sudo mkdir /usr/local/bin
+  379  ls
+  380  ls /usr/local
+  381  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  382  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  383  sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  384  subl
+  385  subl
+  386  clear
+  387  pwd
+  388  ls
+  389  ls -a
+  390  man ls
+  391  ls -@
+  392  ls _R
+  393  ls -R
+  394  ls -l
+  395  cd Applications/
+  396  ls
+  397  pwd
+  398  cd >>
+  399  cd ..
+  400  cd Downloads/
+  401  ls
+  402  ls s
+  403  clear
+  404  pwd
+  405  cd ../Documents/
+  406  ls
+  407  ls
+  408  open old\ TO\ DO\ notes/
+  409  pwd
+  410  cd ..
+  411  pwd
+  412  cd Documents/
+  413  ls
+  414  cd DESIGN/
+  415  cd ~
+  416  cd Documents/DESIGN
+  417  ls
+  418  cd ..
+  419  pwd
+  420  cd ../..
+  421  pwd
+  422  pwd
+  423  ls
+  424  cd Documents/
+  425  ls
+  426  cd ../Desktop/
+  427  ls
+  428  cd test\ folder/
+  429  ls
+  430  open Test\ file.html 
+  431  nano Test\ file.html 
+  432  less Test\ file.html 
+  433  touch File1
+  434  ls
+  435  cat Test\ file.html 
+  436  nano Test\ file.html 
+  437  cat Test\ file.html 
+  438  cp Test\ file.html Test\ file2.html
+  439  ls
+  440  clear
+  441  pwd
+  442  cd
+  443  pd\wd
+  444  pwd
+  445  cd Documents/
+  446  ls
+  447  cd DES
+  448  cd DESIGN/
+  449  ls ~
+  450  ls /
+  451  ls /private/
+  452  ls -p
+  453  ls -p /
+  454  ls / -p
+  455  ls ...
+  456  ls ..
+  457  cler
+  458  cleR
+  459  clear
+  460  clear
+  461  clear
+  462  clear
+  463  cd
+  464  history
+  465  histoty
+  466  history 10
+  467  cd
+  468  clear
+  469  history 10 | less
+  470  history 10
+  471  pwd
+  472  history > moving_around.txt
